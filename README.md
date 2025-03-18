@@ -1,4 +1,6 @@
 ## Hi there 👋
+- 🔭 I’m currently working on hcmute
+- 🌱 I’m currently learning coding and doing ctf challs
 
 <!--
 **update-source/update-source** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
